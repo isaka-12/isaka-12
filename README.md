@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isaka-12
+- 👋 Hi, I’m Isaka
 - 👀 I’m interested in Software development 
 - 🌱 I’m currently learning Java and Python 
 - 💞️ I’m looking to collaborate on Software development 
