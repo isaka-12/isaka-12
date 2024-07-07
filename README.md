@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Isaka
 - 👀 I’m interested in Software development 
-- 🌱 I’m currently learning Java and Python 
+- 🌱 I’m currently learning Web development,Java and Python 
 - 💞️ I’m looking to collaborate on Software development 
   
 
