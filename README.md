@@ -19,7 +19,7 @@
 
 ## 💻 My Projects:
 
-[![Project GIF](https://media.giphy.com/media/YOUR_GIF_LINK_HERE/giphy.gif)](https://github.com/isaka-12?tab=repositories)
+Check out my repositories [here](https://github.com/isaka-12?tab=repositories).
 
 ## 🎯 Goals:
 
@@ -29,7 +29,7 @@
 
 ## 🎉 Fun Fact:
 
-![Coding GIF](https://media.giphy.com/media/YOUR_FUN_FACT_GIF_LINK_HERE/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/https://tenor.com/view/joy-gif-25414590/giphy.gif)
 I commit with spaces and got rejected by all the Ivies.
 
 Feel free to reach out for collaboration or just a chat about tech! 🚀
