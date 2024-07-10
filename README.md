@@ -29,7 +29,7 @@ Check out my repositories [here](https://github.com/isaka-12?tab=repositories).
 
 ## 🎉 Fun Fact:
 
-![Coding GIF](https://media.tenor.com/WtSrwrlqkkIAAAAC/joy.gif)
-I commit with spaces and got rejected by all the Ivies.
+![Coding GIF](https://media.tenor.com/Joy-gif-25414590)
+I code with a lot of comments they think am ChatGPT
 
 Feel free to reach out for collaboration or just a chat about tech! 🚀
