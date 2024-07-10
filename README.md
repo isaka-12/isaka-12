@@ -19,7 +19,7 @@
 
 ## 💻 My Projects:
 
-[![Project GIF](https://media.giphy.com/media/YOUR_GIF_LINK_HERE/giphy.gif)](https://github.com/isaka-12/YOUR_PROJECT_LINK)
+[![Project GIF](https://media.giphy.com/media/YOUR_GIF_LINK_HERE/giphy.gif)](https://github.com/isaka-12?tab=repositories)
 
 ## 🎯 Goals:
 
