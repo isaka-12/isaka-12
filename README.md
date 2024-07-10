@@ -7,6 +7,7 @@
 ## 🌐 Connect with me:
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/isaka-12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaka-mtweve-359122289/)
 
 ## 🚀 Technologies & Tools:
 
