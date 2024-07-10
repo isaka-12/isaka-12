@@ -6,7 +6,7 @@
 
 ## 🌐 Connect with me:
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/benny-png)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/isaka-12)
 
 ## 🚀 Technologies & Tools:
 
@@ -19,7 +19,7 @@
 
 ## 💻 My Projects:
 
-[![Project GIF](https://media.giphy.com/media/YOUR_GIF_LINK_HERE/giphy.gif)](https://github.com/benny-png/YOUR_PROJECT_LINK)
+[![Project GIF](https://media.giphy.com/media/YOUR_GIF_LINK_HERE/giphy.gif)](https://github.com/isaka-12/YOUR_PROJECT_LINK)
 
 ## 🎯 Goals:
 
