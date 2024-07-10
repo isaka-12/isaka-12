@@ -8,6 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/isaka-12)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaka-mtweve-359122289/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mtweveisaka?igsh=MWVxYWlvenZ0bDVvcQ%3D%3D)
 
 ## 🚀 Technologies & Tools:
 
