@@ -2,7 +2,14 @@
 
 - 👀 I'm interested in Software development 
 - 🌱 I'm currently learning Web development, Java, and Python 
-- 💞️ I'm looking to collaborate on Software development 
+- 💞️ I'm looking to collaborate on Software development
+
+## 🎯 Goals:
+
+- Contribute to open source projects
+- Build full-stack web applications
+- Explore AI and machine learning
+
 
 ## 🚀 Technologies & Tools:
 
@@ -17,11 +24,6 @@
 
 Check out my repositories [here](https://github.com/isaka-12?tab=repositories).
 
-## 🎯 Goals:
-
-- Contribute to open source projects
-- Build full-stack web applications
-- Explore AI and machine learning
 
 ## 🌐 Connect with me:
 
