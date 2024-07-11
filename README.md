@@ -23,9 +23,9 @@ Check out my repositories [here](https://github.com/isaka-12?tab=repositories).
 
 ## My stats
 
-<p style= "Align-content:centre;"><img src="https://github-readme-stats.vercel.app/api?username=isaka-12&theme=outrun&show_icons=true&hide_border=false&count_private=true" alt="isaka-12's GitHub Stats" /> </p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaka-12&theme=outrun&show_icons=true&hide_border=false&layout=compact" alt="isaka-12's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=isaka-12&theme=outrun&hide_border=false" alt="isaka-12's GitHub Stats" /> </p>
+<p align = "centre"><img src="https://github-readme-stats.vercel.app/api?username=isaka-12&theme=outrun&show_icons=true&hide_border=false&count_private=true" alt="isaka-12's GitHub Stats" /> </p>
+<p align = "centre"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaka-12&theme=outrun&show_icons=true&hide_border=false&layout=compact" alt="isaka-12's GitHub Stats" align = "centre-left" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=isaka-12&theme=outrun&hide_border=false" alt="isaka-12's GitHub Stats" align =  "centre-right" /> </p>
 
 
 ## 🌐 Connect with me:
