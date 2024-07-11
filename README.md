@@ -30,6 +30,7 @@ Check out my repositories [here](https://github.com/isaka-12?tab=repositories).
 
 <img src="https://github-readme-stats.vercel.app/api?username=isaka-12&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="isaka-12's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaka-12&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="isaka-12's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=isaka-12&theme=radical&hide_border=true" alt="isaka-12's GitHub Stats" />
 
 
 
