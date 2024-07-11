@@ -4,12 +4,6 @@
 - 🌱 I'm currently learning Web development, Java, and Python 
 - 💞️ I'm looking to collaborate on Software development 
 
-## 🌐 Connect with me:
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/isaka-12)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaka-mtweve-359122289/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mtweveisaka?igsh=MWVxYWlvenZ0bDVvcQ%3D%3D)
-
 ## 🚀 Technologies & Tools:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,9 +23,11 @@ Check out my repositories [here](https://github.com/isaka-12?tab=repositories).
 - Build full-stack web applications
 - Explore AI and machine learning
 
-## 🎉 Fun Fact:
+## 🌐 Connect with me:
 
-![Coding GIF](https://raw.githubusercontent.com/isaka-12/isaka-12/main/assets/fun_fact.gif)
-I commit with spaces and got rejected by all the Ivies.
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/isaka-12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaka-mtweve-359122289/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mtweveisaka?igsh=MWVxYWlvenZ0bDVvcQ%3D%3D)
 
 Feel free to reach out for collaboration or just a chat about tech! 🚀
+
