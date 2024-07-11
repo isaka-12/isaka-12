@@ -28,9 +28,8 @@ Check out my repositories [here](https://github.com/isaka-12?tab=repositories).
 
 ## My stats
 
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=joshxfi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
-<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=joshxfi&theme=vue-dark&hide_border=true' />
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=joshxfi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+<img src="https://github-readme-stats.vercel.app/api?username=isaka-12&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="isaka-12's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaka-12&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="isaka-12's GitHub Stats" />
 
 
 
