@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Isaka
 
+-  I'm Computer engineer and IT specialist by education and software developer by passion.
 - 👀 I'm interested in Software development 
 - 🌱 I'm currently learning Web development, Java, and Python 
 - 💞️ I'm looking to collaborate on Software development
