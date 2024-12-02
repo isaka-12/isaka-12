@@ -54,7 +54,7 @@ Passionate about building impactful software and crafting exceptional user exper
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaka-12&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />  
 </p> 
-<p align="center">[![GitHub Streak](https://streak-stats.demolab.com/?user=isaka-12)](https://git.io/streak-stats)</p>
+<p align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=isaka-12)](https://git.io/streak-stats)</p>
 
 ---
 
