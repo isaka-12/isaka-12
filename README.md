@@ -1,34 +1,70 @@
-# 👋 Hi, I'm Isaka
 
- Computer engineering and IT student, UI/UX designer and software developer by passion.
-- 👀 I'm interested in Software development 
-- 🌱 I'm currently learning Web development, Java, and Python 
-- 💞️ I'm looking to collaborate on Software development
-- 😊 I'm always interested in learning new concepts and collaboration. 
+---
 
-## 🎯 Goals:
+# 👋 Hi, I'm **Isaka**  
 
-- Contribute to open source projects
-- Build full-stack web applications
-- Explore AI and machine learning
+**👨‍💻 Computer Engineering Student | 🌐 Software Developer | 🎨 UI/UX Designer**  
 
+---
 
-## 🚀 Technologies & Tools:
+## 🚀 **About Me**  
+Passionate about building impactful software and crafting exceptional user experiences. With a strong foundation in computer engineering and a growing expertise in web development, I thrive on learning, collaboration, and creating innovative solutions.  
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
+🌟 **Key Interests:**  
+- **Software Development:** From frontend finesse to backend brilliance.  
+- **UI/UX Design:** Crafting seamless, user-centric digital experiences.  
+- **Web Development:** Merging creativity and technology to build intuitive web apps.  
+- **Learning:** Exploring emerging technologies, especially AI and machine learning.
 
+---
 
-## My stats
+## 🎯 **My Goals**  
+- Contribute actively to **open-source projects**.  
+- Develop **full-stack web applications** with modern technologies.  
+- Delve deeper into **AI and machine learning** to build intelligent systems.
 
-<p align="centre"><img src="https://github-readme-stats.vercel.app/api?username=isaka-12&theme=outrun&show_icons=true&hide_border=false&count_private=true" alt="isaka-12's GitHub Stats" /> </p>
-<p align = "centre"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaka-12&theme=outrun&show_icons=true&hide_border=false&layout=compact" alt="isaka-12's GitHub Stats" align = "centre" />
+---
 
+## 🛠️ **Technologies & Tools**  
 
-## 🌐 Connect with me:
+<p align="left">  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>  
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>  
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/isaka-12)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaka-mtweve-359122289/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mtweveisaka?igsh=MWVxYWlvenZ0bDVvcQ%3D%3D)
+---
 
-Feel free to reach out for collaboration or just a chat about tech! 🚀
+## 📊 **GitHub Stats**  
 
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=isaka-12&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="Isaka's GitHub Stats" />  
+</p>  
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaka-12&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />  
+</p>  
+
+---
+
+## 🌐 **Connect With Me**  
+
+<p align="center">  
+  <a href="https://github.com/isaka-12" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" alt="GitHub"></a>  
+  <a href="https://www.linkedin.com/in/isaka-mtweve-359122289/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
+  <a href="https://www.instagram.com/mtweveisaka?igsh=MWVxYWlvenZ0bDVvcQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>  
+</p>  
+
+📩 **Feel free to reach out for collaboration or tech talks!**  
+
+---  
