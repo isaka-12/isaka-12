@@ -1,4 +1,4 @@
-
+![](https://komarev.com/ghpvc/?username=isaka-12&label=PROFILE+VIEWS)
 ---
 
 # 👋 Hi, I'm **Isaka**  
