@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=isaka-12&label=PROFILE+VIEWS)
+[![committers.top badge](https://user-badge.committers.top/tanzania_private/isaka-12.svg)](https://user-badge.committers.top/tanzania_private/isaka-12)
 ---
 
 # 👋 Hi, I'm **Isaka**  
