@@ -46,7 +46,7 @@ I enjoy working close to the fundamentals: understanding how systems work, build
 
 * Full-stack web applications
 * RESTful APIs & backend systems
-* Frontend architecture
+* Cross-platforms mobile applications
 * Database design
 * System integration
 * Production-oriented development
