@@ -26,7 +26,7 @@
 
 ## About
 
-I build software that solves real problems — from full-stack platforms and developer tools to intelligent systems and security-focused applications.
+I build software that solves real problems — from full-stack platforms  to intelligent systems and security-focused applications.
 
 Currently pursuing a **BSc. in Computer Engineering and Information Technology at the University of Dar es Salaam**, with practical experience across software engineering, systems, cybersecurity, and emerging AI technologies.
 
