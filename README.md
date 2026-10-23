@@ -1,206 +1,79 @@
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-# Isaka Mtweve
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Isaka%20Mtweve&fontSize=52&fontColor=36BCF7&fontAlignY=36&desc=Computer%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20Systems%20%26%20Security&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Header"/>
 
-### Computer Engineer · Full-Stack Engineer · Systems & Security Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=Building+software+that+solves+real+problems;Full-Stack+%7C+Systems+%7C+Security+%7C+AI;Learning+%E2%86%92+Building+%E2%86%92+Breaking+%E2%86%92+Fixing" alt="Typing animation"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+software+that+solves+real+problems;Full-Stack+%7C+Systems+%7C+Security+%7C+AI;Always+learning.+Always+building." alt="Typing animation" />
+<br/>
 
-<p>
-  <a href="https://isakamtweve.site">Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/isaka-mtweve12">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/isaka-12">GitHub</a>
-</p>
+<a href="https://isakamtweve.site"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=googlechrome&logoColor=36BCF7" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/isaka-mtweve12"><img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=36BCF7" alt="LinkedIn"/></a>
+<a href="https://github.com/isaka-12"><img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=36BCF7" alt="GitHub"/></a>
+<a href="https://www.instagram.com/mtweveisaka/"><img src="https://img.shields.io/badge/Instagram-0f2027?style=for-the-badge&logo=instagram&logoColor=36BCF7" alt="Instagram"/></a>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=isaka-12&label=Profile+Views&style=flat-square" alt="Profile views"/>
-  &nbsp;
-  <img src="https://user-badge.committers.top/tanzania_private/isaka-12.svg" alt="Tanzania GitHub ranking"/>
-</p>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=isaka-12&label=PROFILE%20VIEWS&style=flat-square&color=36BCF7&labelColor=0f2027" alt="Profile views"/>
+&nbsp;
+<img src="https://user-badge.committers.top/tanzania_private/isaka-12.svg" alt="Tanzania GitHub ranking"/>
 
 </div>
 
----
+<br/>
 
-## About
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+## <img src="https://img.shields.io/badge/-%3E_-36BCF7?style=flat-square" height="22"/> &nbsp;whoami
 
-I build software that solves real problems — from full-stack platforms  to intelligent systems and security-focused applications.
+```yaml
+name:      Isaka Mtweve
+location:  Dar es Salaam, Tanzania 🇹🇿
+education: BSc. Computer Engineering & IT — University of Dar es Salaam
+focus:     [full-stack, systems, security, local & edge AI]
+currently: building platforms for students · breaking things in CTFs
+motto:     "Build with purpose. Keep it simple. Understand the fundamentals."
+```
 
-Currently pursuing a **BSc. in Computer Engineering and Information Technology at the University of Dar es Salaam**, with practical experience across software engineering, systems, cybersecurity, and emerging AI technologies.
+I build software that solves real problems — from full-stack platforms to intelligent systems and security-focused applications. I like working close to the fundamentals: understanding how systems work, building them properly, and continuously improving them.
 
-I enjoy working close to the fundamentals: understanding how systems work, building them properly, and continuously improving them.
+<br/>
 
-> **Build with purpose. Keep it simple. Understand the fundamentals.**
-
----
-
-## Engineering Focus
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Software Engineering
-
-* Full-stack web applications
-* RESTful APIs & backend systems
-* Cross-platforms mobile applications
-* Database design
-* System integration
-* Production-oriented development
-
-</td>
-
-<td width="50%" valign="top">
-
-### Systems & Security
-
-* Linux & system administration
-* Networking
-* Web security
-* Vulnerability assessment
-* OWASP methodology
-* CTF & security research
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### AI & Emerging Technology
-
-* AI-powered applications
-* Local & edge AI
-* Intelligent systems
-* AI agents
-* Practical LLM applications
-
-</td>
-
-<td width="50%" valign="top">
-
-### Infrastructure
-
-* Docker
-* Linux
-* Nginx
-* Git & GitHub
-* CI/CD
-* Application deployment
-
-</td>
-</tr>
-</table>
-
----
-
-## Technology
-
-### Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,dart,java,c" alt="Languages"/>
-</p>
-
-### Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind,vite" alt="Frontend technologies"/>
-</p>
-
-### Backend & Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express,mongodb,mysql,postgresql" alt="Backend and database technologies"/>
-</p>
-
-### Infrastructure & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,githubactions,postman" alt="Infrastructure and developer tools"/>
-</p>
-
-### Design
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Affinity%20Designer-1B72BE?style=for-the-badge&logo=affinity&logoColor=white" alt="Affinity Designer"/>
-</p>
-
-### Security
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
-  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/FFUF-111111?style=for-the-badge&logo=linux&logoColor=white" alt="FFUF"/>
-</p>
-
----
-
-## Selected Work
+<!-- ═══════════════════════════ FOCUS ═══════════════════════════ -->
+## <img src="https://img.shields.io/badge/-%E2%9A%99-36BCF7?style=flat-square" height="22"/> &nbsp;Engineering Focus
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [TanStack Tanzania](https://tanstack.co.tz)
-
-A technology community and career development platform focused on empowering Tanzanian students through mentorship, opportunities, learning resources, and industry connections.
-
-**Stack**
-
-`React` `FastAPI` `Docker`
+#### 🧩 Software Engineering
+`Full-stack web apps` `REST APIs` `Backend systems`
+`Cross-platform mobile` `Database design`
+`System integration` `Production-ready builds`
 
 </td>
-
 <td width="50%" valign="top">
 
-### [Kurasa](https://kurasa.ultraprojects.co.tz)
-
-A student information and learning platform developed for TanSAF, supporting scholarship applications and standardized test preparation for **100+ students**.
-
-**Stack**
-
-`React` `FastAPI`
+#### 🛡️ Systems & Security
+`Linux & sysadmin` `Networking` `Web security`
+`Vulnerability assessment` `OWASP`
+`CTF & security research`
 
 </td>
 </tr>
-</table>
-
-### Security Research & CTF
-
-Hands-on security work involving reconnaissance, web application testing, vulnerability discovery, and offensive security labs.
-
-Experience across **TryHackMe, picoCTF, NeboCTF, Hackviser**, and competitive cybersecurity challenges.
-
----
-
-
-</div>
-
-My long-term direction is at the intersection of **software engineering, systems, AI, and security** — building technology that is useful, reliable, and secure.
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=isaka-12&show_icons=true&theme=radical" alt="GitHub Stats"/>
+#### 🤖 AI & Emerging Tech
+`AI-powered apps` `Local & edge AI`
+`Intelligent systems` `AI agents`
+`Practical LLM applications`
 
 </td>
-<td>
+<td width="50%" valign="top">
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=isaka-12&layout=compact&theme=radical" alt="Top Languages"/>
+#### 🚀 Infrastructure
+`Docker` `Linux` `Nginx` `Git & GitHub`
+`CI/CD` `Deployment` `VPS management`
 
 </td>
 </tr>
@@ -208,38 +81,106 @@ My long-term direction is at the intersection of **software engineering, systems
 
 <br/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=isaka-12&theme=radical" alt="GitHub Streak"/>
-
-</div>
-
----
+<!-- ═══════════════════════════ STACK ═══════════════════════════ -->
+## <img src="https://img.shields.io/badge/-%E2%96%A3-36BCF7?style=flat-square" height="22"/> &nbsp;Tech Stack
 
 <div align="center">
 
-## Currently
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,dart,java,c&theme=dark" alt="Languages"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Learning+%E2%86%92+Building+%E2%86%92+Breaking+%E2%86%92+Fixing;Code.+Systems.+Security.+AI.;From+Tanzania+%F0%9F%87%B9%F0%9F%87%BF+to+the+world." alt="Currently building"/>
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind,vite&theme=dark" alt="Frontend"/>
 
+**Backend & Databases**<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express,mongodb,mysql,postgresql&theme=dark" alt="Backend"/>
+
+**Infrastructure & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,githubactions,postman&theme=dark" alt="Infra"/>
+
+**Design & Security**<br/>
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" height="48" alt="Figma"/>
 <br/><br/>
+<img src="https://img.shields.io/badge/Affinity_Designer-0f2027?style=for-the-badge&logo=affinity&logoColor=36BCF7" alt="Affinity Designer"/>
+<img src="https://img.shields.io/badge/Burp_Suite-0f2027?style=for-the-badge&logo=burpsuite&logoColor=FF6633" alt="Burp Suite"/>
+<img src="https://img.shields.io/badge/Nmap-0f2027?style=for-the-badge&logo=gnubash&logoColor=36BCF7" alt="Nmap"/>
+<img src="https://img.shields.io/badge/Wireshark-0f2027?style=for-the-badge&logo=wireshark&logoColor=1679A7" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/FFUF-0f2027?style=for-the-badge&logo=linux&logoColor=white" alt="FFUF"/>
 
-<a href="https://github.com/isaka-12">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/isaka-mtweve12">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://isakamtweve.site">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/mtweveisaka/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
+</div>
 
-<br/><br/>
+<br/>
 
-**Open to meaningful collaborations, engineering projects, and opportunities to build useful technology.**
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+## <img src="https://img.shields.io/badge/-%E2%98%85-36BCF7?style=flat-square" height="22"/> &nbsp;Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 [TanStack Tanzania](https://tanstack.co.tz)
+
+A tech community and career platform empowering Tanzanian students through mentorship, opportunities, learning resources and industry connections.
+
+<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/FastAPI-20232a?style=flat-square&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/Docker-20232a?style=flat-square&logo=docker&logoColor=2496ED"/>
+
+<a href="https://tanstack.co.tz"><img src="https://img.shields.io/badge/Live-→-36BCF7?style=flat-square"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 [Kurasa](https://kurasa.ultraprojects.co.tz)
+
+A student information and learning platform built for TanSAF — scholarship applications and standardized test prep for **100+ students**.
+
+<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/FastAPI-20232a?style=flat-square&logo=fastapi&logoColor=009688"/>
+
+<a href="https://kurasa.ultraprojects.co.tz"><img src="https://img.shields.io/badge/Live-→-36BCF7?style=flat-square"/></a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════ SECURITY ═══════════════════════════ -->
+## <img src="https://img.shields.io/badge/-%E2%9A%91-36BCF7?style=flat-square" height="22"/> &nbsp;Security Research & CTF
+
+```bash
+$ cat ~/security.log
+[+] recon · web app testing · vuln discovery · offensive labs
+[+] platforms: TryHackMe · picoCTF · NeboCTF · Hackviser
+[+] competitive CTFs — forensics · stego · reversing · web exploitation
+```
+
+<br/>
+
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+## <img src="https://img.shields.io/badge/-%E2%96%B2-36BCF7?style=flat-square" height="22"/> &nbsp;GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=isaka-12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=36BCF7&icon_color=36BCF7&rank_icon=github" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=isaka-12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=36BCF7" height="170" alt="Top Languages"/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=isaka-12&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=isaka-12&theme=tokyo-night&hide_border=true&bg_color=0f2027&color=36BCF7&line=36BCF7&point=ffffff&area=true" width="100%" alt="Contribution Graph"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+<div align="center">
+
+### My long-term direction sits at the intersection of **software engineering, systems, AI and security** — building technology that is useful, reliable and secure.
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&width=600&lines=Code.+Systems.+Security.+AI.;From+Tanzania+%F0%9F%87%B9%F0%9F%87%BF+to+the+world.;Open+to+meaningful+collaborations." alt="Footer typing"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
