@@ -23,11 +23,11 @@
 <br/>
 
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
-## <img src="https://img.shields.io/badge/-%3E_-36BCF7?style=flat-square" height="22"/> &nbsp;whoami
+## whoami
 
 ```yaml
 name:      Isaka Mtweve
-location:  Dar es Salaam, Tanzania 🇹🇿
+location:  Dar es Salaam, Tanzania
 education: BSc. Computer Engineering & IT — University of Dar es Salaam
 focus:     [full-stack, systems, security, local & edge AI]
 currently: building platforms for students · breaking things in CTFs
@@ -39,13 +39,13 @@ I build software that solves real problems — from full-stack platforms to inte
 <br/>
 
 <!-- ═══════════════════════════ FOCUS ═══════════════════════════ -->
-## <img src="https://img.shields.io/badge/-%E2%9A%99-36BCF7?style=flat-square" height="22"/> &nbsp;Engineering Focus
+## Engineering Focus
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🧩 Software Engineering
+#### Software Engineering
 `Full-stack web apps` `REST APIs` `Backend systems`
 `Cross-platform mobile` `Database design`
 `System integration` `Production-ready builds`
@@ -53,7 +53,7 @@ I build software that solves real problems — from full-stack platforms to inte
 </td>
 <td width="50%" valign="top">
 
-#### 🛡️ Systems & Security
+#### Systems & Security
 `Linux & sysadmin` `Networking` `Web security`
 `Vulnerability assessment` `OWASP`
 `CTF & security research`
@@ -63,7 +63,7 @@ I build software that solves real problems — from full-stack platforms to inte
 <tr>
 <td width="50%" valign="top">
 
-#### 🤖 AI & Emerging Tech
+#### AI & Emerging Tech
 `AI-powered apps` `Local & edge AI`
 `Intelligent systems` `AI agents`
 `Practical LLM applications`
@@ -71,7 +71,7 @@ I build software that solves real problems — from full-stack platforms to inte
 </td>
 <td width="50%" valign="top">
 
-#### 🚀 Infrastructure
+#### Infrastructure
 `Docker` `Linux` `Nginx` `Git & GitHub`
 `CI/CD` `Deployment` `VPS management`
 
@@ -82,7 +82,7 @@ I build software that solves real problems — from full-stack platforms to inte
 <br/>
 
 <!-- ═══════════════════════════ STACK ═══════════════════════════ -->
-## <img src="https://img.shields.io/badge/-%E2%96%A3-36BCF7?style=flat-square" height="22"/> &nbsp;Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -112,33 +112,45 @@ I build software that solves real problems — from full-stack platforms to inte
 <br/>
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
-## <img src="https://img.shields.io/badge/-%E2%98%85-36BCF7?style=flat-square" height="22"/> &nbsp;Selected Work
+## Selected Work
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 🌍 [TanStack Tanzania](https://tanstack.co.tz)
+<a href="https://tanstack.co.tz"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=110&text=TanStack%20Tanzania&fontSize=30&fontColor=ffffff&fontAlignY=42&desc=Tech%20Community%20%C2%B7%20Career%20Platform&descSize=13&descAlignY=72&descAlign=50" width="100%" alt="TanStack Tanzania"/></a>
 
-A tech community and career platform empowering Tanzanian students through mentorship, opportunities, learning resources and industry connections.
+<sub>A tech community and career platform empowering Tanzanian students through mentorship, opportunities, learning resources and industry connections.</sub>
 
-<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/FastAPI-20232a?style=flat-square&logo=fastapi&logoColor=009688"/>
-<img src="https://img.shields.io/badge/Docker-20232a?style=flat-square&logo=docker&logoColor=2496ED"/>
+<br/>
 
-<a href="https://tanstack.co.tz"><img src="https://img.shields.io/badge/Live-→-36BCF7?style=flat-square"/></a>
+<img src="https://img.shields.io/badge/React-0f2027?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/FastAPI-0f2027?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Docker-0f2027?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker"/>
+
+<br/>
+
+<a href="https://tanstack.co.tz"><img src="https://img.shields.io/badge/View_Live-0f2027?style=for-the-badge&logo=googlechrome&logoColor=36BCF7" alt="View Live"/></a>
+
+<br/><br/>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 📚 [Kurasa](https://kurasa.ultraprojects.co.tz)
+<a href="https://kurasa.ultraprojects.co.tz"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=110&text=Kurasa&fontSize=30&fontColor=ffffff&fontAlignY=42&desc=Student%20Platform%20%C2%B7%20TanSAF&descSize=13&descAlignY=72&descAlign=50" width="100%" alt="Kurasa"/></a>
 
-A student information and learning platform built for TanSAF — scholarship applications and standardized test prep for **100+ students**.
+<sub>A student information and learning platform built for TanSAF — scholarship applications and standardized test prep for <b>100+ students</b>.</sub>
 
-<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/FastAPI-20232a?style=flat-square&logo=fastapi&logoColor=009688"/>
+<br/>
 
-<a href="https://kurasa.ultraprojects.co.tz"><img src="https://img.shields.io/badge/Live-→-36BCF7?style=flat-square"/></a>
+<img src="https://img.shields.io/badge/React-0f2027?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/FastAPI-0f2027?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI"/>
+
+<br/>
+
+<a href="https://kurasa.ultraprojects.co.tz"><img src="https://img.shields.io/badge/View_Live-0f2027?style=for-the-badge&logo=googlechrome&logoColor=36BCF7" alt="View Live"/></a>
+
+<br/><br/>
 
 </td>
 </tr>
@@ -147,7 +159,7 @@ A student information and learning platform built for TanSAF — scholarship app
 <br/>
 
 <!-- ═══════════════════════════ SECURITY ═══════════════════════════ -->
-## <img src="https://img.shields.io/badge/-%E2%9A%91-36BCF7?style=flat-square" height="22"/> &nbsp;Security Research & CTF
+## Security Research & CTF
 
 ```bash
 $ cat ~/security.log
@@ -159,7 +171,7 @@ $ cat ~/security.log
 <br/>
 
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
-## <img src="https://img.shields.io/badge/-%E2%96%B2-36BCF7?style=flat-square" height="22"/> &nbsp;GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -179,7 +191,7 @@ $ cat ~/security.log
 
 ### My long-term direction sits at the intersection of **software engineering, systems, AI and security** — building technology that is useful, reliable and secure.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&width=600&lines=Code.+Systems.+Security.+AI.;From+Tanzania+%F0%9F%87%B9%F0%9F%87%BF+to+the+world.;Open+to+meaningful+collaborations." alt="Footer typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&width=600&lines=Code.+Systems.+Security.+AI.;From+Tanzania+to+the+world.;Open+to+meaningful+collaborations." alt="Footer typing"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="Footer"/>
 
